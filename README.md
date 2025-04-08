@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwatosin Amosu Bolaji 
 
-## 💡 Tools & Tech:
+## 🧰 Tools & Tech:
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **SQL** (MsSQL, Postgree, MySQL)
 - **Microsoft Power BI**

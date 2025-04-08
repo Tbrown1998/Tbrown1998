@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Oluwatosin Amosu Bolaji 
 
-- **💡 Tools & Tech:** **Python** (Pandas, NumPy, Matplotlib, Seaborn) | **SQL** (MsSQL, Postgree, MySQL) | **Microsoft Power BI** | **Microsoft Excel**
-- **🔹 Key Skills:** Data wrangling, dashboarding, reporting, and process optimization.
+## 💡 Tools & Tech:
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MsSQL, Postgree, MySQL)
+- **Microsoft Power BI**
+- **Microsoft Excel**
 
 I’m a data analyst with a strong foundation in analytical thinking, technical proficiency, and a deep passion for solving problems with data. I specialize in transforming raw, complex datasets into clear, actionable insights that drive smarter business decisions. With hands-on expertise in **Python**, **SQL**, **Power BI** and **Excel**, I excel at:
 - Performing deep-dive analyses to uncover patterns and opportunities

@@ -6,7 +6,7 @@
 - **Microsoft Power BI**
 - **Microsoft Excel**
 
-I’m a data analyst with a strong foundation in analytical thinking, technical proficiency, and a deep passion for solving problems with data. I specialize in transforming raw, complex datasets into clear, actionable insights that drive smarter business decisions. With hands-on expertise in **Python**, **SQL**, **Power BI** and **Excel**, I excel at:
+I’m a data analyst with 3+ plus years of experience and a strong foundation in analytical thinking, technical proficiency, and a deep passion for solving problems with data. I specialize in transforming raw, complex datasets into clear, actionable insights that drive smarter business decisions. With hands-on expertise in **Python**, **SQL**, **Power BI** and **Excel**, I excel at:
 - Performing deep-dive analyses to uncover patterns and opportunities
 - Designing dynamic, interactive dashboards that tell compelling data stories
 - Automating and optimizing data workflows for operational efficiency
